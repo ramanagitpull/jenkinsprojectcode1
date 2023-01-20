@@ -1,0 +1,3 @@
+echo "this is devops course" > file1
+cat file1 > file2
+touch file3
